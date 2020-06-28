@@ -1,0 +1,50 @@
+.image{
+    background-image: url("./Image/Picture.jpg");
+    text-align: center;
+    background-size: cover;
+    height: 1200px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.contact{
+    width: 30%;
+    float: left;
+    color: white;
+    margin-top: 20px;
+
+}
+.description{
+    width: 70%;
+    float: left;
+    color: white;
+    margin-top: 20px;
+}
+body{
+    background-color: black;
+}
+#desc{
+    border-bottom: 3px solid red;
+    font-size: xx-large;
+}
+#con{
+    border-bottom: 3px solid red;
+    font-size: xx-large;
+
+}
+#au,#bo,#li,#kn,#ear,#bp{
+    font-size: large;
+}
+#ea{
+    font-size: x-large;
+}
+#H{
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    margin-right: 250px;
+}
+#l{
+    margin-left: 500px;
+}
