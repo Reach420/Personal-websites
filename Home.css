@@ -1,0 +1,68 @@
+.title{
+    display: block;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-right: 600px;
+    margin-bottom: 20px;
+    padding: 15px;
+    width: 400px;
+    border: 6px solid lightslategrey;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color:rgb(3, 3, 3);
+    margin: 0px;
+}
+.hero{
+    color: white;
+    font-size: 27px;
+    margin-top: 160px;
+    margin-left: 0px;
+    text-indent: 50px;
+    background-color: rgb(32, 32, 32);
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.para{
+    color: white;
+    font-family: Arial;
+    background-color: rgb(31, 31, 31);
+    font-size: 17px;
+    margin-left: 0px;
+    margin-bottom: 65px;
+    margin-right: 0px;
+    margin-top: 8px;
+height: 120px;
+    text-indent: 50px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+}
+.elon,.abra,.mark{
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.images{
+    width:30%;
+    height: inherit;
+    float: left;
+    margin:0 20px;
+}
+.description{
+    width: 30%;
+    color:white;
+    float: left;
+    margin-left: 100px;
+}
+
+
+
