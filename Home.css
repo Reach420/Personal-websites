@@ -1,14 +1,15 @@
 .title{
     display: block;
     font-size: 35px;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 60px;
+    margin-top:5px;
+    margin-left: 500px;
+    margin-right: 600px;
+    margin-bottom: 20px;
     padding: 15px;
-    width: 250px;
+    width: 400px;
     border: 6px solid lightslategrey;
     color: white;
+    text-align: center;
 }
 body{
     background-color:rgb(3, 3, 3);
@@ -23,6 +24,7 @@ body{
     background-color: rgb(32, 32, 32);
     margin-bottom: 20px;
     margin-top: 30px;
+    text-align: center;
 }
 .para{
     color: white;
@@ -43,7 +45,7 @@ img{
     margin-right: 100px;
     margin-top: 25px;
 }
-.elon,.abra,.mark{
+.elon,.abra,.mar{
     color: white;
     margin-right: 20px;
     margin-left: 20px;
@@ -61,6 +63,9 @@ img{
     color:white;
     float: left;
     margin-left: 100px;
+}
+#l{
+    margin-left: 600px;
 }
 
 
