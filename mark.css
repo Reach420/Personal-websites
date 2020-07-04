@@ -16,10 +16,10 @@ h1{
 
 }
 .description{
+    position: relative;
     width: 70%;
     float: left;
     color: white;
-    margin-top: 20px;
 }
 body{
     background-color: black;
@@ -40,13 +40,14 @@ body{
     font-size: x-large;
 }
 #H{
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
     color: orange;
     margin-right: 250px;
+    font-family: 'Times New Roman', Times, serif;
 }
 #l{
-    margin-left: 60px;
+    margin-left: 100px;
 }
 #k{
     margin-left: 60px;
