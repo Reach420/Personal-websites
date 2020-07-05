@@ -2,12 +2,12 @@
     display: block;
     font-size: 35px;
     margin-top:5px;
-    margin-left: 500px;
+    margin-left: 570px;
     margin-right: 600px;
     margin-bottom: 20px;
     padding: 15px;
     width: 400px;
-    border: 6px solid lightslategrey;
+    border: 6px solid rgb(31, 31, 31);
     color: white;
     text-align: center;
 }
@@ -65,8 +65,11 @@ img{
     margin-left: 100px;
 }
 #l{
-    margin-left: 600px;
+    margin-left: 630px;
 }
-
+.lmao{
+    background-color: rgb(31, 31, 31);
+    color:white;
+}
 
 

@@ -1,8 +1,8 @@
 .image{
-    background-image: url("./Image/Picture.jpg");
+    background-image: url("39006-full.jpg");
     text-align: center;
     background-size: cover;
-    height: 1200px;
+    height: 1100px;
 }
 h1{
     color: white;
@@ -16,36 +16,43 @@ h1{
 
 }
 .description{
-    position: relative;
     width: 70%;
     float: left;
     color: white;
+    margin-top: 20px;
 }
 body{
     background-color: black;
 }
 #desc{
-    border-bottom: 4px solid red;
+    border-bottom: 3px solid red;
     font-size: xx-large;
 }
 #con{
-    border-bottom: 4px solid red;
+    border-bottom: 3px solid red;
     font-size: xx-large;
+
 }
 #au,#bo,#li,#kn,#ear,#bp{
     font-size: large;
+    margin-right: 15px;
 }
 #ea{
-    border-bottom: 4px solid red;
     font-size: x-large;
+    border-bottom: 3px solid red;
+    width: 125px;
+
 }
 #H{
-    font-size: 65px;
+    font-size: 50px;
     text-align: center;
     color: white;
-    margin-right: 250px;
-    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    margin-right: 800px;
 }
 #l{
-    margin-left: 20px;
+    margin-left: 60px;
+}
+#k{
+    margin-left: 60px;
 }
