@@ -1,13 +1,13 @@
 .title{
     display: block;
     font-size: 35px;
-    margin-top:5px;
-    margin-left: 500px;
+    margin-top: 5px;
+    margin-left: 485px;
     margin-right: 600px;
     margin-bottom: 20px;
     padding: 15px;
     width: 400px;
-    border: 6px solid rgb(31, 31, 31);
+    border: 6px solid gray;
     color: white;
     text-align: center;
 }
@@ -17,8 +17,9 @@ body{
 }
 .hero{
     color: white;
-    font-size: 27px;
-    margin-top: 160px;
+    font-size: 35px;
+    border-bottom: 4px solid red;
+    margin-top: 30px;
     margin-left: 0px;
     text-indent: 50px;
     background-color: rgb(32, 32, 32);
@@ -29,14 +30,14 @@ body{
 .para{
     color: white;
     font-family: Arial;
-    background-color: rgb(31, 31, 31);
-    font-size: 17px;
+    font-size: 20px;
     margin-left: 0px;
-    margin-bottom: 65px;
+    margin-bottom: 20px;
     margin-right: 0px;
-    margin-top: 8px;
-height: 120px;
+    margin-top: 5px;
+    height: 160px;
     text-indent: 50px;
+    background-color: rgb(31, 31, 31);
 }
 img{
     width: 300px;
@@ -79,11 +80,12 @@ img{
     text-align: justify;
 }
 #l{
-    margin-left: 565px;
+    margin-left: 560px;
 }
 .lmao{
     background-color: rgb(31, 31, 31);
     color:white;
 }
+
 
 
