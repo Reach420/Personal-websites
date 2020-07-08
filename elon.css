@@ -1,0 +1,76 @@
+.image{
+    background-image: url("39006-full.jpg");
+    text-align: center;
+    background-size: cover;
+    height: 800px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+.contact{
+    width: 30%;
+    float: left;
+    color: white;
+    margin-top: 20px;
+
+}
+.description{
+    width: 70%;
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 100;
+    color: white;
+    margin-left: 0px;
+
+}
+body{
+    background-color: black;
+}
+#desc{
+    border-bottom: 4px solid red;
+    margin-top: 1000px;
+    font-size: 7px;
+    font-size: xx-large;
+}
+#con{
+    border-bottom: 4px solid red;
+    font-size: xx-large;
+
+}
+#au,#bo,#li,#kn,#ear,#bp{
+    font-size: large;
+    margin-right: 15px;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+#ea{
+    font-size: x-large;
+    border-bottom: 4px solid red;
+    width: 125px;
+
+}
+#H{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: 'Cormorant Garamond', serif;
+    font-variant: small-caps;
+    margin-right: 700px;
+}
+#l{
+    margin-left: 1080px;
+
+}
+#ea,#con,#desc{
+    font-family: 'EB Garamond', serif;
+}
+
+.lol{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    width: 100px;
+    background-color: crimson;
+}
+
+

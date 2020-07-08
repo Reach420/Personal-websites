@@ -1,42 +1,46 @@
 .title{
     display: block;
-    font-size: 35px;
-    margin-top:5px;
-    margin-left: 570px;
+    font-size: 45px;
+    margin-top: 5px;
+    margin-left: 580px;
     margin-right: 600px;
     margin-bottom: 20px;
     padding: 15px;
     width: 400px;
-    border: 6px solid lightslategrey;
+    border: 6px solid gray;
     color: white;
+    font-family: 'Playfair Display', serif;
     text-align: center;
 }
 body{
     background-color:rgb(3, 3, 3);
-    margin: 0px;
 }
 .hero{
     color: white;
-    font-size: 27px;
-    margin-top: 160px;
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+    border-bottom: 4px solid red;
+    margin-top: 70px;
     margin-left: 0px;
     text-indent: 50px;
     background-color: rgb(32, 32, 32);
     margin-bottom: 20px;
-    margin-top: 30px;
     text-align: center;
 }
 .para{
     color: white;
     font-family: Arial;
-    background-color: rgb(31, 31, 31);
-    font-size: 17px;
+    font-size: 20px;
     margin-left: 0px;
-    margin-bottom: 65px;
+    margin-bottom: 80px;
+    font-family: 'Lato', sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
     margin-right: 0px;
-    margin-top: 8px;
-height: 120px;
+    margin-top: 5px;
+    height: 130px;
     text-indent: 50px;
+    background-color: rgb(31, 31, 31);
 }
 img{
     width: 300px;
@@ -44,32 +48,54 @@ img{
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 25px;
+
 }
-.elon,.abra,.mar{
+.elon{
     color: white;
     margin-right: 20px;
     margin-left: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.abra{
+    color: white;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.mar{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
 .images{
-    width:30%;
+    width:10%;
     height: inherit;
     float: left;
     margin:0 20px;
 }
 .description{
-    width: 30%;
+    font-family: 'Lato', sans-serif;
+    width: 70%;
     color:white;
     float: left;
     margin-left: 100px;
+    text-align: justify;
+    margin-bottom: 20px;
 }
 #l{
-    margin-left: 640px;
+    margin-left: 655px;
 }
 .lmao{
     background-color: rgb(31, 31, 31);
     color:white;
 }
+.pp {
+    color: lightskyblue;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 18px;}
+
 
 
