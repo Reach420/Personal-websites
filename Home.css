@@ -20,7 +20,7 @@ body{
     font-size: 35px;
     font-family: 'Bebas Neue', cursive;
     border-bottom: 4px solid red;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-left: 0px;
     text-indent: 50px;
     background-color: rgb(32, 32, 32);
@@ -71,7 +71,7 @@ img{
     margin-bottom: 20px;
 }
 .images{
-    width:10%;
+    width: 30%;
     height: inherit;
     float: left;
     margin:0 20px;
