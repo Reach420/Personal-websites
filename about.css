@@ -30,3 +30,25 @@ body{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+#t{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 40px;
+    font-family: monospace;
+    border-top: 4px solid gray;
+    background-color: rgb(32, 32, 32);
+}
+.T{
+    border-bottom: 4px solid red;
+}
+#g{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 4px solid gray;
+    background-color: rgb(32, 32, 32);
+    
+}
