@@ -45,11 +45,24 @@ img{
     margin-right: 100px;
     margin-top: 25px;
 }
-.elon,.abra,.mar{
+.elon{
     color: white;
     margin-right: 20px;
     margin-left: 20px;
     margin-top: 20px;
+    margin-bottom: 20px;
+}
+.abra{
+    color: white;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.mar{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
     margin-bottom: 20px;
 }
 .images{
