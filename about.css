@@ -6,14 +6,18 @@ body{
     font-size: 37px;
     color: white;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 6px solid darkgray;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border: 6px solid white;
     margin-top:5px;
     margin-left: auto;
     margin-right:auto;
     margin-bottom: 20px;
     padding: 15px;
-    width: 400px;
+    width: 350px;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {border-color:blue;}
 }
 #l { 
     margin-left: 550px;
