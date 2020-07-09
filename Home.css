@@ -2,33 +2,35 @@
     display: block;
     font-size: 45px;
     margin-top: 5px;
-    margin-left: 580px;
+    margin-left: 485px;
     margin-right: 600px;
     margin-bottom: 20px;
     padding: 15px;
     width: 400px;
-    border: 6px solid gray;
+    border: 6px solid white;
     color: white;
     font-family: 'Playfair Display', serif;
+    font-style: italic;
     text-align: center;
     animation: mymove 5s infinite;
 }
 @keyframes mymove {
     50% {border-color:blue;}
+    50% {box-shadow: 15px 15px 15px lightblue;}
+    50% {color: #7c5295;}
 }
 body{
     background-color:rgb(3, 3, 3);
 }
 .hero{
     color: white;
-    font-size: 35px;
+    font-size: 40px;
     font-family: 'Bebas Neue', cursive;
     border-bottom: 4px solid red;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: 0px;
-    text-indent: 50px;
+    text-indent: 40px;
     background-color: rgb(32, 32, 32);
-    margin-bottom: 20px;
     text-align: center;
 }
 .para{
@@ -43,8 +45,7 @@ body{
     margin-right: 0px;
     margin-top: 5px;
     height: 130px;
-    text-indent: 50px;
-    background-color: rgb(31, 31, 31);
+    text-align: center;
 }
 img{
     width: 300px;
@@ -90,7 +91,7 @@ img{
     margin-bottom: 20px;
 }
 #l{
-    margin-left: 655px;
+    margin-left: 560px;
 }
 .lmao{
     background-color: rgb(31, 31, 31);

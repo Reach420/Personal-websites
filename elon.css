@@ -13,7 +13,6 @@ h1{
     width: 30%;
     float: left;
     color: white;
-    margin-top: 20px;
 
 }
 .description{
@@ -30,7 +29,6 @@ body{
 }
 #desc{
     border-bottom: 4px solid red;
-    margin-top: 1000px;
     font-size: 7px;
     font-size: xx-large;
 }
@@ -49,7 +47,6 @@ body{
     font-size: x-large;
     border-bottom: 4px solid red;
     width: 125px;
-
 }
 #H{
     font-size: 70px;
