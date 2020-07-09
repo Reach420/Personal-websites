@@ -11,6 +11,12 @@
     color: white;
     font-family: 'Playfair Display', serif;
     text-align: center;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {border-color: lightgray;}
+    50% {box-shadow: 15px 15px 15px lightblue;}
+    50% {color: peachpuff;}
 }
 body{
     background-color:rgb(3, 3, 3);

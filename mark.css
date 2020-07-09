@@ -26,26 +26,31 @@ body{
 }
 #desc{
     border-bottom: 4px solid red;
-    font-size: xx-large;
+    font-size: 40px;
+    font-family: 'Grenze Gotisch', cursive;
 }
 #con{
     border-bottom: 4px solid red;
-    font-size: xx-large;
+    font-size: 40px;
+    font-family: 'Grenze Gotisch', cursive;
 }
 #au,#bo,#li,#kn,#ear,#bp{
     font-size: large;
 }
 #ea{
     border-bottom: 4px solid red;
-    font-size: x-large;
+    font-size: 30px;
+    font-family: 'Grenze Gotisch', cursive;
 }
 #H{
-    font-size: 65px;
+    font-size:75px;
     text-align: center;
     color: white;
     margin-right: 250px;
-    font-family: 'Times New Roman', Times, serif;
-}
+    border-bottom: 5px solid red;
+    font-family: 'Lobster', cursive;
 #l{
-    margin-left: 20px;
+    margin-left: 60px;
+
 }
+
