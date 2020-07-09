@@ -18,9 +18,9 @@ body{
     animation: mymove 5s infinite;
 }
 @keyframes mymove {
-    50% {border-color:blue;}
+    50% {border-color: lightcoral;}
     50% {box-shadow: 15px 15px 15px lightblue;}
-    50% {color: #7c5295;}
+    50% {color: lightblue;}
 }
 #l { 
     margin-left: 632px;
