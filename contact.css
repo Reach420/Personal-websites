@@ -17,7 +17,7 @@ body{
     animation: mymove 5s infinite;
 }   
 #l{ 
-    margin-left: 1080px;
+    margin-left: 545px;
      margin-right: auto;
 }
 #o{
@@ -55,15 +55,16 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: lightseagreen;
+  background-color: lightslategray;
   padding: 20px;
   margin-top: 20px;
+  animation: mymove 5s infinite;
 }
 #r{
     color: white;
     font-size: 40px;
     font-family: cursive;
-    margin-top: 70px;
+    margin-top: 50px;
     border-bottom: 4px solid lightgreen;
 }
 @keyframes mymove {
