@@ -56,6 +56,7 @@ body{
     text-align: center;
     color: white;
     font-family: 'Cormorant Garamond', serif;
+    border-bottom: red solid 4px;
     font-variant: small-caps;
     margin-right: 700px;
 }

@@ -6,18 +6,18 @@ body{
     font-size: 45px; 
     color: white;
     text-align: center;
-    font-family: 'Galada', cursive;
     font-style: italic;
     margin-top:5px;
+    font-family: 'Playfair Display', serif;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
-    border-bottom: 5px solid red;
+    border-bottom: 5px solid royalblue;
     background-color: rgb(32, 32, 32);
     animation: mymove 5s infinite;
 }   
 #l{ 
-    margin-left: 1080px;
+    margin-left: 638px;
      margin-right: auto;
 }
 #o{
@@ -55,24 +55,42 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: lightseagreen;
+  background-color: lightslategray;
   padding: 20px;
   margin-top: 20px;
+  animation: mymove 5s infinite;
 }
 #r{
     color: white;
     font-size: 40px;
     font-family: cursive;
-    margin-top: 70px;
+    margin-top: 50px;
     border-bottom: 4px solid lightgreen;
 }
 @keyframes mymove {
-    50% {color: lightslategrey;}
     30% {box-shadow: 15px 15px 15px lightblue;}
 }
 .footer {
   width: 100%;
   color: white;
-  text-align: center;
-  height: 100px;
+  text-align: left;
+  height: 180px;
+  font-size: 20px;
+}
+.lag{
+  width: 100%;
+  color: white;
+  text-align: left;
+  font-size: 30px;
+  border-bottom: 4px solid lightgreen;
+}
+.ld{
+  width: 100%;
+  color: white;
+  text-align: left;
+  font-size: 30px;
+  border-bottom: 4px solid lightgreen;
+}
+.pws{
+  margin:10px 10px;
 }

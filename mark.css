@@ -3,6 +3,14 @@
     text-align: center;
     background-size: cover;
     height: 1200px;
+    position: relative;
+}
+#subtitle{
+    position: absolute;
+    top: 550px;
+    color: white;
+    font-size: 55.5px;
+    font-family: 'Galada', cursive;
 }
 h1{
     color: white;
@@ -27,12 +35,12 @@ body{
 #desc{
     border-bottom: 4px solid red;
     font-size: 40px;
-    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Modak', cursive;
 }
 #con{
     border-bottom: 4px solid red;
     font-size: 40px;
-    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Modak', cursive;
 }
 #au,#bo,#li,#kn,#ear,#bp{
     font-size: large;
@@ -40,7 +48,7 @@ body{
 #ea{
     border-bottom: 4px solid red;
     font-size: 30px;
-    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Modak', cursive;
 }
 #H{
     font-size:75px;
@@ -51,6 +59,4 @@ body{
     font-family: 'Lobster', cursive;
 #l{
     margin-left: 60px;
-
 }
-
