@@ -2,35 +2,35 @@
     display: block;
     font-size: 45px;
     margin-top: 5px;
-    margin-left: 485px;
+    margin-left: 570px;
     margin-right: 600px;
     margin-bottom: 20px;
     padding: 15px;
     width: 400px;
-    border: 6px solid white;
+    border: 6px solid gray;
     color: white;
     font-family: 'Playfair Display', serif;
-    font-style: italic;
     text-align: center;
     animation: mymove 5s infinite;
 }
 @keyframes mymove {
-    50% {border-color:blue;}
+    50% {border-color: lightgray;}
     50% {box-shadow: 15px 15px 15px lightblue;}
-    50% {color: #7c5295;}
+    50% {color: peachpuff;}
 }
 body{
     background-color:rgb(3, 3, 3);
 }
 .hero{
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Bebas Neue', cursive;
     border-bottom: 4px solid red;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-left: 0px;
-    text-indent: 40px;
+    text-indent: 50px;
     background-color: rgb(32, 32, 32);
+    margin-bottom: 20px;
     text-align: center;
 }
 .para{
@@ -42,10 +42,11 @@ body{
     font-family: 'Lato', sans-serif;
     padding-right: 15px;
     padding-left: 15px;
+    text-align: center;
     margin-right: 0px;
     margin-top: 5px;
     height: 130px;
-    text-align: center;
+    background-color: rgb(31, 31, 31);
 }
 img{
     width: 300px;
@@ -91,16 +92,13 @@ img{
     margin-bottom: 20px;
 }
 #l{
-    margin-left: 560px;
+    margin-left: 640px;
 }
 .lmao{
     background-color: rgb(31, 31, 31);
     color:white;
 }
-.pp {
+.pi {
     color: lightskyblue;
     font-family: 'Montserrat Subrayada', sans-serif;
     font-size: 18px;}
-
-
-

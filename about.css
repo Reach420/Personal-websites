@@ -10,7 +10,7 @@ body{
     font-style: italic;
     border: 6px solid white;
     margin-top:5px;
-    margin-left: auto;
+    margin-left: 570px;
     margin-right:auto;
     margin-bottom: 20px;
     padding: 15px;
@@ -18,12 +18,12 @@ body{
     animation: mymove 5s infinite;
 }
 @keyframes mymove {
-    50% {border-color:blue;}
+    50% {border-color: lightgoldenrodyellow;}
     50% {box-shadow: 15px 15px 15px lightblue;}
     50% {color: #7c5295;}
 }
 #l { 
-    margin-left: 550px;
+    margin-left: 640px;
      margin-right: auto;
 }
 .images{

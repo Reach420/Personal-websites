@@ -1,79 +1,96 @@
 body{
-    background-color: black;
+  background-color: black;
 }
 #a{
-    display: block;
-    font-size: 45px; 
-    color: white;
-    text-align: center;
-    font-family: 'Galada', cursive;
-    font-style: italic;
-    margin-top:5px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-    border-bottom: 5px solid blue;
-    background-color: rgb(32, 32, 32);
-    animation: mymove 5s infinite;
+  display: block;
+  font-size: 45px; 
+  color: white;
+  text-align: center;
+  font-style: italic;
+  margin-top:5px;
+  font-family: 'Playfair Display', serif;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  border-bottom: 5px solid royalblue;
+  background-color: rgb(32, 32, 32);
+  animation: mymove 5s infinite;
 }   
 #l{ 
-    margin-left: 545px;
-     margin-right: auto;
+  margin-left: 638px;
+   margin-right: auto;
 }
 #o{
-    color: white;
+  color: white;
 }
 #fo{
-    color: white;
+  color: white;
 }
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
+width: 100%;
+padding: 12px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical;
 }
 
 input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
+background-color: #4CAF50;
+color: white;
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
 }
 
 input[type=submit]:hover {
-  background-color: black;
+background-color: black;
 }
 
 .container {
-  border-radius: 5px;
-  background-color: lightslategray;
-  padding: 20px;
-  margin-top: 20px;
-  animation: mymove 5s infinite;
+border-radius: 5px;
+background-color: lightslategray;
+padding: 20px;
+margin-top: 20px;
+animation: mymove 5s infinite;
 }
 #r{
-    color: white;
-    font-size: 40px;
-    font-family: cursive;
-    margin-top: 50px;
-    border-bottom: 4px solid lightgreen;
+  color: white;
+  font-size: 40px;
+  font-family: cursive;
+  margin-top: 50px;
+  border-bottom: 4px solid lightgreen;
 }
 @keyframes mymove {
-    50% {color: blue;}
-    30% {box-shadow: 15px 15px 15px lightblue;}
+  30% {box-shadow: 15px 15px 15px lightblue;}
 }
 .footer {
-  width: 100%;
-  color: white;
-  text-align: center;
-  height: 100px;
+width: 100%;
+color: white;
+text-align: left;
+height: 180px;
+font-size: 20px;
+}
+.lag{
+width: 100%;
+color: white;
+text-align: left;
+font-size: 30px;
+border-bottom: 4px solid lightgreen;
+}
+.ld{
+width: 100%;
+color: white;
+text-align: left;
+font-size: 30px;
+border-bottom: 4px solid lightgreen;
+}
+.pws{
+margin:10px 10px;
 }
