@@ -7,7 +7,7 @@
 }
 #subtitle{
     position: absolute;
-    top: 550px;
+    top: 650px;
     color: white;
     font-size: 55.5px;
     font-family: 'Galada', cursive;
@@ -57,6 +57,7 @@ body{
     margin-right: 250px;
     border-bottom: 5px solid red;
     font-family: 'Lobster', cursive;
+}
 #l{
-    margin-left: 60px;
+    margin-left: 150px;
 }
